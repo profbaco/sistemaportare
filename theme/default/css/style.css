@@ -1,0 +1,22 @@
+.msgDiv {
+    color: #ec0305;
+    text-align: center;
+}
+
+.bigModal {
+    width:800px;
+    margin-left: -100px
+}
+
+.veryBigModal {
+    width:990px;
+    margin-left: -100px
+}
+
+.direita {
+    text-align: right;
+}
+
+.centro {
+    text-align: center;
+}
